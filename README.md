@@ -12,7 +12,7 @@ Include
 -------
 
 ``` js
-var shellescape = require('shell-escape');
+const shellescape = require('shell-escape');
 ```
 
 Example
